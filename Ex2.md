@@ -147,3 +147,6 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 ### OUTPUT:
 ![image](https://github.com/lokesh-khanna/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119606216/92de47bd-8661-4c33-810a-1ae3ecb102ea)
+
+### RESULT:
+Executing DML queries using SQL was executed successfully.
